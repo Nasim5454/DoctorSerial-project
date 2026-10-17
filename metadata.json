@@ -1,0 +1,6 @@
+{
+  "name": "DoctorSerial — Clinic & Appointment Management System",
+  "description": "Full-stack clinic queue and appointment booking platform with role-based access for Admins, Doctors, Receptionists, and Patients, live queue management, doctor schedules, and real-time status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
